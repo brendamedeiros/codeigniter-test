@@ -1,7 +1,7 @@
 <html>
 <head>
 <META http-equiv=Content-Type content="text/html; charset=utf-8">
-<title>CI Dev</title>
+<title>CodIgniter Dev</title>
 <style>
 * {
 	margin: 0;
